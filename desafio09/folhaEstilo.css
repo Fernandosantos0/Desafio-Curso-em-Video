@@ -78,7 +78,7 @@ footer#rodape span {
 @media (max-width: 575px) {
     
     main#video iframe {
-        width: 90%;
+        width: 100%;
         height: 315px;
     }
 
